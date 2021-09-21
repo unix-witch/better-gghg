@@ -1,0 +1,22 @@
+{
+    "name": "better-gay-gay-homosexual-gay",
+    "displayName": "better gay gay homosexual gay",
+    "description": "A better version thats (hopefully) less ugly than the original theme",
+    "version": "0.0.1",
+    "publisher": "roylatgnail",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "better-gghg",
+                "uiTheme": "vs-dark",
+                "path": "./themes/better-gghg-color-theme.json"
+            }
+        ]
+    }
+}
